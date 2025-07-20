@@ -14,8 +14,8 @@ Head to our [Issues](https://github.com/CaturraSocial/.github/issues) page for b
 
 
 ## Open Source Works
-- [Sphynx]('https://github.com/CaturraSocial/Sphynx') - Sphynx is our open source image proxy.
-- [Burmese]('https://github.com/CaturraSocial/Burmese') - Burmese is our in house discord bot for posting updates and announcements on multiple social platforms at once.
+- [**Sphynx**](https://github.com/CaturraSocial/Sphynx) - Sphynx is our open source image proxy.
+- [**Burmese**](https://github.com/CaturraSocial/Burmese) - Burmese is our in house discord bot for posting updates and announcements on multiple social platforms at once.
 
 
 ## Public Libraries
