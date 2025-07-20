@@ -7,16 +7,15 @@ Here you will find the source code to some of our open source works.
 We will also be curating a list of public libraries and websites that the community has created.
 
 
+## Bug Reporting / Feature Requests
 
-
-
-
+Head to our [Issues](https://github.com/CaturraSocial/.github/issues) page for bug reports and feature requests.
 
 
 
 ## Open Source Works
-- [**Sphynx**]('https://github.com/CaturraSocial/Sphynx') - Sphynx is our open source image proxy.
-- [**Burmese**]('https://github.com/CaturraSocial/Burmese') - Burmese is our in house discord bot for posting updates and announcements on multiple social platforms at once.
+- [Sphynx]('https://github.com/CaturraSocial/Sphynx') - Sphynx is our open source image proxy.
+- [Burmese]('https://github.com/CaturraSocial/Burmese') - Burmese is our in house discord bot for posting updates and announcements on multiple social platforms at once.
 
 
 ## Public Libraries
